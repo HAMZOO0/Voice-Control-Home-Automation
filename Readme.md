@@ -1,4 +1,3 @@
-.# Voice Control Home Automation
 # 🌟 Home Automation System with ESP32 and Alexa Echo Dot 🌟
 
 ![Home Automation](https://img.shields.io/badge/Home%20Automation-ESP32%20%2B%20Alexa-blueviolet)
@@ -7,7 +6,7 @@
 
 Welcome to the Home Automation System project! This project enables you to control home appliances using an ESP32 microcontroller and voice commands via Amazon Alexa Echo Dot.
 
- Table of Contents
+ ### Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -22,22 +21,21 @@ Welcome to the Home Automation System project! This project enables you to contr
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
 
-1. Introduction
+### 1. Introduction
 
 This project integrates an ESP32 microcontroller with Amazon Alexa to create a voice-controlled home automation system. Using the Alexa Skills Kit (ASK) and AWS IoT, you can control various home appliances seamlessly.
 
-2. Features
+### 2. Features
 
 - 🔌 **Voice Control**: Control home appliances using simple voice commands.
 - 🌐 **Remote Access**: Manage your devices from anywhere via Wi-Fi.
 - ⚡ **Easy Setup**: Quick and straightforward installation process.
 - 🛠️ **Customizable**: Easily extend and modify the project to suit your needs.
 
-3. Demo
 
 ![Home Automation Demo](demo.gif)
 
-## Hardware Requirements
+### 3 Hardware Requirements
 
 - **ESP32 Microcontroller**
 - **Relay Module** (for controlling appliances)
@@ -45,21 +43,21 @@ This project integrates an ESP32 microcontroller with Amazon Alexa to create a v
 - **Jumper Wires** and **Breadboard**
 - **Home Appliances** (e.g., lights, fans)
 
-4.## Software Requirements
+### 4. Software Requirements
 
 - **Arduino IDE**
 - **ESP32 Board Support** for Arduino IDE
 - **Amazon Developer Account** (for Alexa Skill)
 - **AWS Account** (for AWS IoT)
 
-5. ## Installation
+### 5.  Installation
 
-### 1. Set up ESP32 with Arduino IDE
+#### 1. Set up ESP32 with Arduino IDE
 
 1. Install the [Arduino IDE](https://www.arduino.cc/en/software).
 2. Set up the ESP32 board in Arduino IDE. Follow the [ESP32 setup guide](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html).
 
-6. Clone this Repository
+### 6. Clone this Repository
 
 ```bash
 git clone https://github.com/yourusername/home-automation-esp32-alexa.git
@@ -99,10 +97,3 @@ Troubleshooting
 •	AWS IoT connection issues: Verify the security certificates and endpoint details.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-Contributions
-HAMZOO0 AYAANKHANN0
-
-Conclusions:
-This Home Automation System project, leveraging the ESP32 microcontroller and Amazon Alexa Echo Dot, offers an efficient and modern way to control home appliances through voice commands. By integrating IoT technology with Alexa's voice capabilities, users can easily manage their devices, enhancing convenience and functionality in their daily lives. We hope this project serves as a valuable guide and inspires further innovation in smart home technology. Happy automating!
-
-
