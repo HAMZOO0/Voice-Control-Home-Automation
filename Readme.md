@@ -97,3 +97,6 @@ Troubleshooting
 •	AWS IoT connection issues: Verify the security certificates and endpoint details.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+```
+---
+![image](https://github.com/HAMZOO0/Voice-Control-Home-Automation/assets/98114762/93a054ee-2ea5-4746-b270-3381d65e5bc1)
